@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "node node_modules/.bin/http-server -p 8080 -d False ."
+        "start": "node node_modules/.bin/http-server -p 80 -d False ."
     },
     "dependencies": {
         "http-server": "v0.7.4"
